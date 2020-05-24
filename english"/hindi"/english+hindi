@@ -1,1 +1,6 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="" tvg-name="UKe
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Soldiers 11/5/2020" tvg-logo="https://subdl.com/p/sd799/sd799104.jpg" group-title="Movies",Dragon Soldiers 11/5/2020
+https://www.googleapis.com/drive/v3/files/1OlC5LFYlKnFTv_9FltWA6E_vdoWZIaEQ?alt=media&key=AIzaSyDLJl9pVmm7rAWAZMwqav4rSyEEjGW-mS0
+#EXTINF:-1 tvg-id="" tvg-name="Coffee with D 10/1/2017" tvg-logo="https://i.imgur.com/MCffBf3.jpg" group-title="Movies",Coffee with D 10/1/2017
+https://www.googleapis.com/drive/v3/files/16440CxqYREfSYNFcJ1fbbODRjamJMH27?alt=media&key=AIzaSyD992fVbm0OntqqMFSChpOtweHe2U1PHMM
